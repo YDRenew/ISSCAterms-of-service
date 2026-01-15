@@ -1,51 +1,106 @@
+# Privacy Policy
+
+**Effective Date:** January 7, 2026
+
+Thank you for using **Daily Signal** (“the App”).  
+Your privacy is important to us. This Privacy Policy explains how information is handled when you use the App.
+
 ---
-title: Terms of Service
-permalink: /terms-of-service/
+
+## 1. Information We Do Not Collect
+
+Daily Signal **does not collect, store, or require any personal information** that can directly identify you, including but not limited to:
+
+- Name  
+- Email address  
+- Phone number  
+- Account credentials  
+
+The App does **not require user registration or login**.
+
 ---
 
-# Terms of Service
+## 2. Advertising and Third-Party Services
 
-**Effective: January 15, 2024**
+To support the free availability of the App, **third-party advertising services (Google AdMob)** are used.
 
-Please read these Terms of Service ("Terms") carefully. By downloading, installing, or using the Is This a Scam? application ("the App"), you agree to be bound by these Terms.
+While we do not collect personal data ourselves, **Google AdMob may automatically collect certain information** as part of serving ads, in accordance with its own privacy policy. This information may include:
 
-## 1. Description of Service
+- Advertising identifiers (such as Apple’s Identifier for Advertisers – IDFA)
+- Basic device information (device type, operating system, language)
+- Approximate location (derived from IP address)
+- Ad interaction data (such as ad impressions and clicks)
 
-Is This a Scam? is a tool designed to assist users in identifying potential scam messages by analyzing text patterns. It provides risk assessments and educational information to help raise your awareness.
+This information is processed **by Google**, not by the App developer.
 
-**Important Disclaimer: The App's analysis is based on algorithms and known patterns and is for informational purposes only. It is not professional security, legal, or financial advice. The App does not guarantee 100% accuracy and may produce false positives or negatives. You are solely responsible for your decisions and actions. Always verify critical matters through official channels.**
+---
 
-## 2. Acceptable Use
+## 3. App Tracking Transparency (ATT)
 
-You agree to:
-*   Use the App for lawful purposes and comply with all applicable local laws.
-*   Not reverse-engineer, hack, or disrupt the normal functioning of the App.
-*   Understand that the service is provided "as is."
+On iOS and iPadOS devices, the App complies with Apple’s **App Tracking Transparency (ATT)** framework.
 
-## 3. Intellectual Property
+- The App will request your permission **before accessing the advertising identifier** for tracking purposes.
+- If you choose not to allow tracking, your decision will be respected.
+- You can change your tracking preferences at any time in:
+  
+  **Settings → Privacy & Security → Tracking**
 
-The App and all related content, including text, graphics, logos, and code, are protected by intellectual property laws and are owned by the developer. You may not copy, modify, or distribute any part without explicit permission.
+---
 
-## 4. Subscriptions & Auto-Renewal
+## 4. How Third-Party Data Is Used
 
-*   The App offers a "Pro" subscription purchased through the Apple App Store.
-*   Subscriptions automatically renew at the end of each period (monthly/yearly) unless you turn off auto-renewal at least 24 hours before the current period ends.
-*   Payment will be charged to your Apple ID account at confirmation of purchase.
-*   You can manage or cancel your subscription anytime via your device's iTunes or App Store settings.
+Any data collected by Google AdMob is used for purposes such as:
 
-## 5. Limitation of Liability
+- Displaying ads
+- Measuring ad performance
+- Delivering personalized or non-personalized ads, depending on your settings
 
-To the maximum extent permitted by law, the developer **shall not be liable for any indirect, incidental, special, or consequential damages** arising from the use or inability to use the App. This includes, but is not limited to, data loss or business interruption. Our total cumulative liability shall not exceed the amount you paid for the App service in the past six months (if any).
+We do **not** access, store, or control this data.
 
-## 6. Modifications & Termination
+For more information, please review Google’s Privacy Policy:
 
-We reserve the right to modify or discontinue the App (or any part) at any time without notice. We are not liable for any loss resulting from such actions.
+- https://policies.google.com/privacy  
+- Ad Settings: https://adssettings.google.com
 
-## 7. Governing Law
+---
 
-These Terms are governed by the laws of your country of residence, excluding its conflict of law rules.
+## 5. Data Security
 
-## 8. Contact Us
+We do not store personal data on our servers.  
+Third-party services used by the App apply industry-standard security practices. However, no electronic transmission method is completely secure.
 
-For questions about these Terms, please contact us at:
-*   Email: `support@scamshield.app`
+---
+
+## 6. Children’s Privacy
+
+The App is **not intended for children under the age of 13**.
+
+We do not knowingly collect personal information from children.  
+If you believe that a child has provided personal information through the App, please contact us so we can address the issue.
+
+---
+
+## 7. Your Privacy Choices
+
+You may control your privacy preferences through your device settings, including:
+
+- Limiting or resetting advertising identifiers
+- Managing ad personalization options
+- Controlling tracking permissions on iOS / iPadOS
+
+---
+
+## 8. Changes to This Privacy Policy
+
+This Privacy Policy may be updated from time to time.  
+Any changes will be reflected by updating the **Effective Date** at the top of this page.
+
+---
+
+## 9. Contact Information
+
+If you have any questions about this Privacy Policy, please contact us:
+
+- **Email:** ydrenewable@126.com  
+- **Support Website:**  
+  https://ydrenew.github.io/ZHEYOUPri/
